@@ -5,7 +5,7 @@
 namespace Buoi3.Migrations
 {
     /// <inheritdoc />
-    public partial class Khoitaodulieu : Migration
+    public partial class khoitao : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

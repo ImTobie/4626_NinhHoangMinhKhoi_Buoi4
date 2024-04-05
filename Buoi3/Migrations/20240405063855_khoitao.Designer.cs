@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Buoi3.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240329062329_Khoi tao du lieu")]
-    partial class Khoitaodulieu
+    [Migration("20240405063855_khoitao")]
+    partial class khoitao
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
